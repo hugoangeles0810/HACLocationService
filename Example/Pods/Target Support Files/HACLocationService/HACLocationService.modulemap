@@ -1,0 +1,6 @@
+framework module HACLocationService {
+  umbrella header "HACLocationService-umbrella.h"
+
+  export *
+  module * { export * }
+}

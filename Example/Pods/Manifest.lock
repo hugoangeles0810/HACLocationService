@@ -1,0 +1,16 @@
+PODS:
+  - HACLocationService (0.1.0)
+
+DEPENDENCIES:
+  - HACLocationService (from `../`)
+
+EXTERNAL SOURCES:
+  HACLocationService:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HACLocationService: 0088d966560f424846b5145dbc924ee3e7d0de46
+
+PODFILE CHECKSUM: e47a23f94c25f8d4cbdaefe508dd97fb9289cd7c
+
+COCOAPODS: 1.5.0
