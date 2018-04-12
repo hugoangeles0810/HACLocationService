@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HACLocationService_Tests' do
+  pod 'HACLocationService', :path => '../'
+  
+  
+end
